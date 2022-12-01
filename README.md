@@ -159,7 +159,7 @@ No known bugs at this time.
 
 ## Authors
 Praise Dike - [Github](https://github.com/freedompraise) / [Twitter](https://twitter.com/freedom_praise)  
-Jennifer Huang - [Github](https://github.com/jonero82)
+Ogunremi Abiodun - [Github](https://github.com/jonero82)
 
 Second part of Airbnb: Praise Dike
 ## License
